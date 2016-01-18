@@ -1,4 +1,4 @@
-### Yum Repository Mirror scripts
+### Yum Repository Mirror script
 
 ## Note
 Create the exclude file directory: 
@@ -19,6 +19,7 @@ EOF
 ```
 
 ## Editables
-
+```
 BASE - path where you want the repo
 RSYNC - rsync mirror to use
+```
