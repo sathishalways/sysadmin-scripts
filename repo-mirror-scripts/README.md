@@ -18,4 +18,7 @@ cat > /etc/sync/centos-exclude << EOF
 EOF
 ```
 
-Run the script! Edit BASE to change storage path. 
+## Editables
+
+BASE - path where you want the repo
+RSYNC - rsync mirror to use
